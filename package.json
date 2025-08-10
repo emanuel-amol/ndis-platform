@@ -1,0 +1,13 @@
+{
+  "name": "ndis-platform-root",
+  "private": true,
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node dev.mjs"
+  },
+  "devDependencies": {
+    "http-proxy": "^1.18.1",
+    "open": "^10.1.0"
+  }
+}

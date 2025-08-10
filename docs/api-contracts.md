@@ -1,0 +1,1 @@
+# API contracts (to be filled as backends evolve)
