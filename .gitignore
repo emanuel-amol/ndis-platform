@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/.venv/
+.venv/
+env/
+venv/
+
+# Editors/OS
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local env & secrets
+.env
+.env.local
+.env.*
+!.env.example
