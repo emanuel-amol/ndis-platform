@@ -8,6 +8,9 @@ This repository is a **backend-ready, visual scaffold** for the AI-Integrated ND
 
 ---
 
+<img width="1274" height="559" alt="image" src="https://github.com/user-attachments/assets/1ab64673-4bd4-4144-8858-299e46d812b3" />
+
+
 ## Quick Start (run **all** frontends)
 
 ```powershell
